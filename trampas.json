@@ -1,0 +1,14 @@
+[
+  {
+    "titulo": "Cláusula de permanencia",
+    "descripcion": "Puede implicar penalizaciones si te das de baja antes de tiempo.",
+    "gravedad": "media",
+    "clave": "permanencia"
+  },
+  {
+    "titulo": "Renovación automática",
+    "descripcion": "Renueva el contrato sin avisarte, lo que puede ser un abuso.",
+    "gravedad": "alta",
+    "clave": "renovación automática"
+  }
+]
